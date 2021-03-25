@@ -16,7 +16,7 @@
     </a>
     </a>
   </p>
-  <p align="center">Клиент Minecraft V1</p>
+  <p align="center">Клиент Minecraft v1.1</p>
 </p>
 
 ## Системные требования
