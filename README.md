@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-    <a href="https://github.com/LNDSera/ClientAutoUpdate/blob/master/LICENSE">
+    <a href="https://github.com/LNDSera/ClientAutoUpdate/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/LNDsera/Launcher.svg" alt="License" />
     </a>
     <a>
@@ -8,9 +8,6 @@
     </a>
         <a>
       <img src="https://img.shields.io/badge/.NET%20Core-%3E%3D3.1-blueviolet.svg" alt=".NET Version">
-    </a>
-    <a href="https://github.com/LNDSera/ClientAutoUpdate/archive/master.zip">
-      <img src="https://img.shields.io/github/languages/code-size/LNDsera/Launcher.svg" alt="Code Size" />
     </a>
     <a href="https://github.com/LNDSera/ClientAutoUpdate/releases">
       <img src="https://img.shields.io/github/release/LNDSera/ClientAutoUpdate/all.svg" alt="Last Release">
