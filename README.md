@@ -24,7 +24,7 @@
 
 ## Системные требования
 * Windows 10 64 OS
-* Устанровленный [.NET Core 3.1 среда выполнения](https://dotnet.microsoft.com/download/dotnet-core/3.1)
+* Установленный [.NET Core 3.1 среда выполнения](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 
 ## Приумущество 
 
@@ -46,7 +46,7 @@
   - [x] Управление учетной запесью
   - [x] Вход по электорной почте и паролю
   - [x] Автоматическое обновления токена
-  - [x] Возможность внешней авторизацией（на основе [authlib-injector](https://github.com/yushijinhun/authlib-injector)）
+  - [x] Возможность внешней авторизацией authlib-injector
 
 - [x] Возможности скачаки и установки
   - [x] Несколько загрузок одноверенно
@@ -97,14 +97,4 @@
   - [ ] Изменять mail
   - [ ] Видеть статистику
 
-- [ ] Авто-обновления（На основе Github）
-
-## Скриншоты
-<img src="./Screenshots/main_en.png" width="720"/>
-<img src="./Screenshots/blur_behind_en.png" width="720"/>
-<img src="./Screenshots/literally_code_behind_en.png" width="720"/>
-<img src="./Screenshots/versions_en.png" width="720"/>
-<img src="./Screenshots/accounts_en.png" width="720"/>
-<img src="./Screenshots/settings_en.png" width="720"/>
-<img src="./Screenshots/mods_en.png" width="720"/>
-<img src="./Screenshots/resourcepacks_en.png" width="720"/>
+- [ ] Авто-обновления
