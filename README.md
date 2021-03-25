@@ -1,8 +1,4 @@
 <p align="center">
-  <a>
-    <img src="./GBCLV3/baselnd.ico" alt="Icon" width=64 height=64>
-  </a>
-  <h2 align="center">Launcher</h2>
   <p align="center">
     <a href="https://github.com/LNDsera/Launcher/blob/master/LICENSE">
       <img src="https://img.shields.io/github/license/LNDsera/Launcher.svg" alt="License" />
@@ -23,7 +19,7 @@
     </a>
     </a>
   </p>
-  <p align="center">LNDsera Minecraft Клиентский лаунчер V3</p>
+  <p align="center">Клиентский лаунчер Minecraft V1</p>
 </p>
 
 ## Системные требования
