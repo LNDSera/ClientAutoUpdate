@@ -1,7 +1,7 @@
 <p align="center">
   <p align="center">
     <a href="https://github.com/LNDSera/ClientAutoUpdate/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/LNDsera/Launcher.svg" alt="License" />
+      <img src="https://img.shields.io/github/license/LNDsera/ClientAutoUpdate.svg" alt="License" />
     </a>
     <a>
       <img src="https://img.shields.io/badge/platform-win--64-lightgrey.svg" alt="Platform">
